@@ -5,5 +5,3 @@ hello-world
 
 
 githubからへんこうできるんですね！！おぉ
-
-forkしてみました！！
